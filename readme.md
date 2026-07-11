@@ -1,1 +1,1 @@
-![My GitHub Stats](https://your-project-name.vercel.app/api/github/Parshuram-Behera?theme=glass)
+![My GitHub Stats](https://profile-design-two.vercel.app/api/github/Parshuram-Behera?theme=glass)
